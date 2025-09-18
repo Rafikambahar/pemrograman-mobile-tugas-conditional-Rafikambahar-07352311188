@@ -19,4 +19,4 @@ Program juga memvalidasi input agar hanya menerima angka 0 – 100.
 1. Pastikan Dart SDK sudah terinstal.
 2. Clone repository ini:
    ```bash
-   git clone https://github.com/username/pemrograman-mobile-tugas-conditional-nama-nim
+  https://github.com/Rafikambahar/pemrograman-mobile-tugas-conditional-Rafikambahar-07352311188
